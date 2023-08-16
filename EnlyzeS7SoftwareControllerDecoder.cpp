@@ -1,7 +1,8 @@
-// ENLYZE version of pintool as presented in "sOfT7: Revealing the Secrets of Siemens S7 PLCs"
+// Copyright 2023 ENLYZE GmbH
+// SPDX-License-Identifier: Apache-2.0
 //
-// If this code works, it was written by Colin Finck.
-// Otherwise, you are free to call it your own.
+// ENLYZE version of pintool as presented in "sOfT7: Revealing the Secrets of Siemens S7 PLCs" (https://i.blackhat.com/USA-22/Wednesday/US-22-Bitan-Revealing-S7-PLCs.pdf)
+// Written by Colin Finck for ENLYZE GmbH
 
 #include <cstdio>
 #include <fstream>
